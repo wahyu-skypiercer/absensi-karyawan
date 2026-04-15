@@ -1,19 +1,13 @@
 
 ## cara install
-composer install
-npm install
-php artisan key:generate
-php artisan migrate --seed
-npm run dev
-
-npm install @vitejs/plugin-react@5
-npm install chart.js react-chartjs-2
-
-rm -rf node_modules
-npm install
-npm run dev
+1. composer install
+2. npm install
+3. php artisan key:generate
+4. php artisan migrate --seed
+5. npm install @vitejs/plugin-react@5
+6. npm install chart.js react-chartjs-2
 
 ## cara run
-rm -rf node_modules
-npm install
-npm run dev
+1. rm -rf node_modules
+2. npm install
+3. npm run dev
